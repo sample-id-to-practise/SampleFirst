@@ -1,4 +1,5 @@
 # SampleFirst
-This is for sample and practise
+This is simple
+
 
 this is updated
